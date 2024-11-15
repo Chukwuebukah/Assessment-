@@ -1,0 +1,32 @@
+Web development is the process of building and maintaining websites or web applications for the internet (or intranet). 
+It involves a variety of tasks, from designing a website's visual layout to writing code, configuring servers, and managing databases. 
+Web development is broadly categorized into three main areas: Front-End Development (Client-Side), Back-End Development (Server-Side) and Full-Stack Development:
+
+Business and Commerce: Websites and web applications are the digital storefronts for businesses, enabling e-commerce, customer engagement, and branding.
+Communication: Websites provide a platform for sharing ideas, connecting with others, and disseminating information to a global audience.
+Automation: Many processes, from customer support to data analytics, are automated through web
+
+HTML: Hypertext Markup Language……  to provide the structure and content of a web page.
+
+Key uses of CSS in web development include:
+Styling Text and Colors- CSS allows customization of text fonts, sizes, colors, and alignments, helping to create consistent branding and readability.
+Layout Design- CSS enables developers to arrange elements on a web page, defining sections, aligning content, and creating layouts such as grids or flexible designs that respond to different screen sizes.
+Responsive Design- CSS media queries make it possible to create websites that adjust seamlessly across various devices, ensuring that a site looks good on desktops, tablets, and mobile phones.
+Animation and Transitions: CSS allows for animations and smooth transitions, adding dynamic effects like hover states, fades, and movement, which can improve user engagement and experience.
+
+JavaScript is a programming language used primarily in web development to create dynamic and interactive elements on websites. 
+
+It brings functionality and behavior to a webpage, enabling features that respond to user actions, update content without reloading the page, and enhance user engagement. 
+Itis a core part of the front-end development stack
+It enables instant responses to clicks, hovers, and other actions, enhancing engagement.
+It allows content to update without reloading the page, providing a smooth user experience.
+It adds animations and transitions, making websites visually engaging and user-friendly
+It validates user input on the client side, improving data accuracy and user experience.
+It adjusts website behavior based on screen size or device, making sites adaptable and user-friendly across platforms.
+No, I am not familiar with React and Node.js
+I have a passion for Web development. I started learning front end in 2020 but i stopped de to the fact that i had no tutor or mentor to coach me. I am amazed with how the website works. I want to be able to code perfectly. Money is also a plus.
+I want to enhance my career opportunities. Acquiring these skills opens the way for me to become a full-stack developer with the knowledge of both front-end (HTML, CSS, JavaScript, React) and back-end (Node.js.). I would be able to develop websites, web apps, build life solving problems 
+
+
+
+  
