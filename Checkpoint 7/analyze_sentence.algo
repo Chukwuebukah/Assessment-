@@ -1,0 +1,42 @@
+BEGIN
+    // Initialize counters
+    sentence_length <- 0
+    word_count <- 0
+    vowel_count <- 0
+
+    // Initialize a flag to check for word boundaries
+    is_in_word <- FALSE
+
+    // Display prompt
+    DISPLAY "Enter a sentence ending with a period (.)"
+
+    // Process characters one by one
+    REPEAT
+        READ character
+
+        // Increment sentence length for each character except the period
+        IF character != "." THEN
+            INCREMENT sentence_length
+        ENDIF
+
+        // Check for vowels
+        IF character IN ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'] THEN
+            INCREMENT vowel_count
+        ENDIF
+
+        // Check for word boundaries
+        IF character = " " OR character = "." THEN
+            IF is_in_word = TRUE THEN
+                INCREMENT word_count
+                is_in_word <- FALSE
+            ENDIF
+        ELSE
+            is_in_word <- TRUE
+        ENDIF
+    UNTIL character = "."
+
+    // Display results
+    DISPLAY "Length of the sentence: ", sentence_length
+    DISPLAY "Number of words: ", word_count
+    DISPLAY "Number of vowels: ", vowel_count
+END
